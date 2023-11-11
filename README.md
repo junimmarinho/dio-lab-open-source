@@ -137,7 +137,11 @@ Aprender o básico sobre contribuição no GitHub.
  Além disso, você também pode contribuir:
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
+## Dicionario
 
+Algoritimos = sequencia logica que toda linguagem ou script deve seguir, ou seja, e uma sequecia de tarefas;
+Features = funcionalidades que um site ou aplicativo tem;
+variaveis = uma acao variavel do script;
 ⭐ Adicionando aos favoritos (**star**) 
 
 ### Membros da comunidade que já contribuiram:
